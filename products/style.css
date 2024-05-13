@@ -1,0 +1,173 @@
+.first{
+    background-color:rgb(177, 115, 34); 
+    margin: 0;
+    padding:20px;
+}
+.first a:hover{
+    color: #f9f5f5;
+    font-size: 20px;
+}
+.first a{
+    color: #000;
+    margin-left: 10px;
+}
+.second{
+  height: 75vh;
+  width: vw;
+  background-image: url(https://made2style.com/wp-content/uploads/2014/02/photo-1-2.jpg?w=660) ;
+  background-size: 100% 75vh;
+  background-repeat:no-repeat ;
+}
+.second h1{
+    margin: 0;
+   font-size: 30px;
+   margin-left: 25px;
+}
+.third{
+    margin: 30px;
+    padding-top: 20px;
+}
+.third h1{
+    text-align: center;
+}
+.third .fourth img{
+    border-radius: 50%;
+    width: 50%;
+    border-style: solid;
+    border-color: rgb(31, 29, 27);
+}
+.third .fourth{
+    margin-left: 12px;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-color: rgb(31, 29, 27);
+    width: 20%;
+    border-style: solid;
+    text-align: center;
+    display: inline-block;
+}
+.third .fifth{
+    margin-left: 12px;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-color: rgb(31, 29, 27);
+    width: 20%;
+    border-style: solid;
+    text-align: center;
+    display: inline-block;
+}
+.third .fifth img{
+    border-radius: 50%;
+    width: 50%;
+    border-style: solid;
+    border-color: rgb(31, 29, 27);
+}
+.third .sixth{
+    margin-left: 12px;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-color: rgb(31, 29, 27);
+    width: 20%;
+    border-style: solid;
+    text-align: center;
+    display: inline-block;
+}
+.third .sixth img{
+    border-radius: 50%;
+    width: 50%;
+    border-style: solid;
+    border-color: rgb(31, 29, 27);
+}
+.third .seven{
+    margin-left: 12px;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-color: rgb(31, 29, 27);
+    width: 20%;
+    border-style: solid;
+    text-align: center;
+    display: inline-block;
+}
+.third .seven img{
+    border-radius: 50%;
+    width: 50%;
+    border-style: solid;
+    border-color: rgb(31, 29, 27);
+}
+.safa{
+    background-color: rgb(177, 115, 34); 
+    padding:5px;
+}
+
+.safa p{
+    color: #000;
+    font-size: 20px;
+    text-align: center;
+}
+.third .a{
+    margin-left: 12px;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-color: rgb(31, 29, 27);
+    width: 20%;
+    border-style: solid;
+    text-align: center;
+    display: inline-block;
+}
+.third .a img{
+    border-radius: 50%;
+    width: 50%;
+    border-style: solid;
+    border-color: rgb(31, 29, 27);
+}
+.third .b{
+    margin-left: 12px;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-color: rgb(31, 29, 27);
+    width: 20%;
+    border-style: solid;
+    text-align: center;
+    display: inline-block;
+}
+.third .b img{
+    border-radius: 50%;
+    width: 50%;
+    border-style: solid;
+    border-color: rgb(31, 29, 27);
+}
+.third .c{
+    margin-left: 12px;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-color: rgb(31, 29, 27);
+    width: 20%;
+    border-style: solid;
+    text-align: center;
+    display: inline-block;
+}
+.third .c img{
+    border-radius: 50%;
+    width: 50%;
+    border-style: solid;
+    border-color: rgb(31, 29, 27);
+}
+.third .d{
+    margin-left: 12px;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-color: rgb(31, 29, 27);
+    width: 20%;
+    border-style: solid;
+    text-align: center;
+    display: inline-block;
+}
+.third .d img{
+    border-radius: 50%;
+    width: 50%;
+    border-style: solid;
+    border-color: rgb(31, 29, 27);
+}
+
+
+
